@@ -3,7 +3,7 @@
 ### About me
 
 - 🔭 I’m currently working on my soon to be PBC repository, but for now I'm on [ACNH](https://github.com/slyrp/ACNH).
-- 🌱 I’m currently learning mainly Javascript, but commonly switch between HTML, CSS, and Python.
+- 🌱 I’m currently learning mainly Javascript, but commonly switch between Python and others.
 - 📫 You can open an issue or find me on [Discord](https://discord.com/): slyrp#0646.
 - 😄 My pronouns are [he/him](https://en.pronouns.page/he).
 - 🐦 I'm on Twitter: [@Slyrpman](https://twitter.com/Slyrpman) & [@slyrpACNH](https://twitter.com/slyrpACNH).
