@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm slyrp.
+
+- 🔭 I’m currently working on my soon to be PBC repository, but for now I'm on [ACNH](https://github.com/slyrp/ACNH).
+- 🌱 I’m currently learning mainly Javascript, but HTML, CSS, and Python are some others.
+- ⚡ Fun fact: I am actually really bad at coding and make ChatGPT do all my work.
+- 📫 You can open an issue or find me on Discord: slyrp#0646.
+- 😄 My pronouns are he/him.
 
 <!--
 **slyrp/slyrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
