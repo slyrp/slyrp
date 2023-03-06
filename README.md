@@ -6,15 +6,16 @@
 - 🌱 I’m currently learning mainly Javascript, but commonly switch between HTML, CSS, and Python.
 - 📫 You can open an issue or find me on [Discord](https://discord.com/): slyrp#0646.
 - 😄 My pronouns are [he/him](https://en.pronouns.page/he).
-- 🐦 I'm on Twitter: [@Slyrpman](https://twitter.com/Slyrpman) & [@slyrpACNH](https://twitter.com/slyrpACNH)
+- 🐦 I'm on Twitter: [@Slyrpman](https://twitter.com/Slyrpman) & [@slyrpACNH](https://twitter.com/slyrpACNH).
 
 ### Fun Facts
 
 - 📝 I use [VSCode](https://github.com/microsoft/vscode) as my primary code editor (It has [ChatGPT extension](https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt)).
 - 🤖 I'm actually really bad at coding; I make [ChatGPT](https://chat.openai.com/chat) do all my work.
+- ⭐ I'm not always interested in [my stars](https://github.com/slyrp?tab=stars), I just star cool things sometimes.
 - 🦜 I have two budgies: Apollo and Sky.
-- ❤️ I love hyperlinks
-- 🤮 I strongly dislike books
+- 🤮 I strongly dislike books.
+- ❤️ I love hyperlinks.
 
 <!--
 **slyrp/slyrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
