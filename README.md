@@ -1,10 +1,8 @@
 ## Hi, I'm slyrp!
 
-[My website](https://slyrp.github.io/).
-
 ### About me
 
-- 🔭 I’m currently working on my soon to be PBC repository, but for now I'm on [ACNH](https://github.com/slyrp/ACNH).
+- 🔭 I’m currently working on [my website](https://github.com/slyrp/slyrp.github.io)!.
 - 🌱 I’m currently learning mainly Javascript, but commonly switch between Python and others.
 - 📫 You can open an issue or find me on [Discord](https://discord.com/): slyrp#0646.
 - 😄 My pronouns are [he/him](https://en.pronouns.page/he).
