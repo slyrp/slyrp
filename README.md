@@ -1,1 +1,1 @@
-i code then give up, usually. sometimes, i don't though, and you can find that here.
+usually i code then give up, but sometimes i don't, and you can find that here.
